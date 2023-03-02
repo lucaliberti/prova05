@@ -25,6 +25,7 @@ Inoltre sono disponibilile le seguenti funzioni aggiuntive:
 ## Generatore Numeri Casuali
 Esempio:
 > srand(time(NULL));  // inizializazione del generatore pseudocasuale (basta farlo solo una volta)
+> 
 > int rnd=rand()%10;  // numero compreso tra [0 ... 9] 
 
 ## Utilizzare la funzione Sleep()
